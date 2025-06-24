@@ -29,6 +29,12 @@ div.main-container {
     background:     rgba(255, 255, 255, 0.952);
     padding: 2rem;
     border-radius: 10px;
-    max-width: 350px;
+    max-width: fit-content;
     margin-top: 300px;
+    gap: 15px;
 }
+
+div.password-container {
+    margin-left: 20px;
+    align-self: center;
+}    
